@@ -11,6 +11,7 @@ Project TKO 2: Bash it
 
 _Resources:_
 [KodeKloud] (https://kodekloud.com/courses/shell-scripts-for-beginners/)
+
 [Pure Bash Alternatives](https://github.com/dylanaraps/pure-bash-bible)
 
 # Networking
