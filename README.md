@@ -2,18 +2,18 @@
 DevOpsLearning
 
 # TKO on Vsphere
-Project TKO 1: Manually
+**Project TKO 1:** Manually
 
-Project TKO 2: Bash it
+**Project TKO 2:** Bash it
 
-Project TKO 3: Terraform
+**Project TKO 3:** Terraform
 
 _Resources:_
 
 [TKO on AWS](https://github.com/vmware-tanzu-labs/tanzu-validated-solutions/blob/main/src/deployment-guides/tko-aws.md#aws-infra)
 
 # BASH
-Project TKO 2: Bash it
+**Project TKO 2:** Bash it
 
 _Resources:_
 
@@ -22,7 +22,7 @@ _Resources:_
 [Pure Bash Alternatives](https://github.com/dylanaraps/pure-bash-bible)
 
 # Networking
-Project N1: USG and small switch, rasberry pi
+**Project N1:** USG and small switch, rasberry pi
 
 Trunking, Bridge, Gateway, CISCO network switches, Tree Spending Protocol, Network Protocol, DHCP, how to split up subnets, transit gateway
 
@@ -42,11 +42,11 @@ ipclac (brew install)
 
 
 # GoLang/Python
-Project G1: Connect to K8s cluster
+**Project G1:** Connect to K8s cluster
 
-Project G2: Connect to Spotify
+**Project G2:** Connect to Spotify
 
-Project G3: Link Fitbit and Tovala to Grafana dashboards
+**Project G3:** Link Fitbit and Tovala to Grafana dashboards
 
 _Resources:_
 
@@ -55,7 +55,7 @@ _Resources:_
 [KodeKloud: Python](https://kodekloud.com/courses/python-entry-level-programmer-certification/)
 
 # CKA
-Project CKA 1: Kubernetes the Hard Way
+**Project CKA 1:** Kubernetes the Hard Way
 
 _Resources:_
 
@@ -64,7 +64,7 @@ _Resources:_
 [K8s the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 # Terraform
-Project TKO 3 : Terraform
+**Project TKO 3:** Terraform
 
 _Resources:_
 
