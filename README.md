@@ -38,7 +38,7 @@ _Resources:_
 
 _Tools:_
 
-ipclac (brew install)
+ipcalc (brew install)
 
 
 # GoLang/Python
@@ -69,3 +69,11 @@ _Resources:_
 _Resources:_
 
 [KodeKloud: Terraform](https://kodekloud.com/courses/terraform-for-beginners/)
+
+# SRE Tasks
+
+- [ ] Read the [SRE Workbook](https://sre.google/workbook/table-of-contents/)
+- [ ] Implement a simple blackbox SLI, record the SLI in a time series database (Wavefront or Grafana/Telegraf)
+- [ ] Graph the above SLI against an SLO (say 99.9) and graph an error budget
+- [ ] Calculate an error burn rate you can use for alerting
+
