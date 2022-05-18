@@ -69,6 +69,32 @@ IPv6: Hop Limit
 IP addressing
 Subnet Masks/ CIDR (Classless Inter-Domain Routing)
 Route Tables, Routes, Router
+Address Resolution Protocol (ARP)
+
+
+What it has:
+- Device to device communication over the internet with help of IP addresses, ARP, route, route tables, router
+
+What it lacks:
+- No methods for channels of communications (can't have 2 applications using the same source and destination IP)
+- Can be delivered out of order
+- No ensuring of packet arrival (Packets can get lost)
+- IP has no flow control (can saturate destination causing packet loss)
+
+** Layer 4 **
+
+Key Words:
+Transmission Control Protocol (TCP)
+User Datagram Protocol (UDP)
+Transmission Control Protocol (TCP) Segments: source port, destination port, sequence number, acknowledgement, flags, window, urgent pointer, checksum, data
+Ephemeral Port
+Well Known Port
+3 way handshake: Synchronize (SYN), Synchronize- Acknowledge (SYN-ACK), Acknowledge (ACK), Close (FIN)
+
+What it has:
+- Allows multiple applications to use the same source and destination IP
+
+
 
 
 
