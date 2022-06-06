@@ -110,7 +110,7 @@ dallas_nodes
             command: 'echo "I work as a {{ title}}"'
             
 #ansible conditionals
-# Note: A better way to do this would be to use the lineinfile module. This is just for practice.First, we run a command using the shell module to get the contents of /etc/resolv.conf file and then we add a new line containing the name server data into the file.
+#Note: A better way to do this would be to use the lineinfile module. This is just for practice.First, we run a command using the shell module to get the contents of /etc/resolv.conf file and then we add a new line containing the name server data into the file.
     name: 'Add name server entry if not already entered'
     hosts: localhost
     tasks:
